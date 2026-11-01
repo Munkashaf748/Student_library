@@ -1,6 +1,6 @@
 # DTU Student Library
 
-This project was made by **Munkashaf Alam, Nikhil Kumar, and Atishay Jain** for the **Web Designing mini project (CS103)**.
+This project was made by **Munkashaf Alam(26/A04/030), Nikhil Kumar(26/A04/043), and Atishay Jain(26/A8/030)** for the **Web Designing mini project (CS103)**.
 
 ## About the project
 
