@@ -6,8 +6,6 @@ This project was made by **Munkashaf Alam(26/A04/030), Nikhil Kumar(26/A04/043),
 
 DTU Student Library is a simple collection of HTML pages for first-year engineering students. The home page links to branch pages, where students can see subject names and course codes based on the provided first-year timetable.
 
-The project uses beginner-friendly HTML and CSS. Subject PDF links are not included yet; they can be added to the relevant branch pages later.
-
 ## Pages
 
 - `front_page.html` - Home page with links to the timetable and branch pages.
